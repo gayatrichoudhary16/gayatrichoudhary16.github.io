@@ -11,7 +11,7 @@ body{
   .aboutus_text{
     margin-top:60px;
   } 
-  .foodrecipe-card{
+  .foodrecipe-card a{
     transition: all .5s ease-in-out;
   }
   .foodrecipe-card:hover {
